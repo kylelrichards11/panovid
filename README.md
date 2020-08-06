@@ -1,3 +1,5 @@
+[![PyPI version](https://badge.fury.io/py/panovid.svg)](https://badge.fury.io/py/panovid)
+
 # Panovid
 Turn panoramic photos into scrolling videos! This project can be used as a standalone script, or can be used in another python project.
 
@@ -33,5 +35,3 @@ convert_to_vid("my_photo.jpg")
 ```
 
 The optional arguments are the same as for the standalone version (without dashes).
-
-```
